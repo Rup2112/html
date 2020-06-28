@@ -1,0 +1,74 @@
+{*
+	padding: 0;
+	margin: 0;
+}
+
+
+ul li{
+
+		display: inline-block;
+			background: maroon;
+    width: 135px;
+    height: 35px;
+		b
+    text-align: middle;
+    line-height: 37px;
+    color: white;
+    font-weight: bold;
+	}
+		ul li a{
+			text-decoration: none;
+			color: white; 
+			margin: auto;
+
+		}
+		ul li:hover{
+			background: black;
+			
+		}
+		 h1{
+        	background:maroon;
+		}
+		h1{
+			text-align: center;
+			
+	margin:auto;
+		}
+		
+		h2{
+			color: white;
+		}
+.topbar{
+	height: 50px;
+	background: green;
+	line-height: 50px;
+	color: white;
+}
+.space{
+	width: 950px;
+	margin:auto;
+}
+.phone{
+	float: right;
+}
+.email{
+	display: inline;
+}
+p{
+	color: white;
+}
+.header{
+    height: 80px;
+	background: grey;
+	line-height:35px;
+	color:white;
+	border-image: 30px;
+}
+
+
+.search{
+	float:right;
+}
+.phone{
+	display:inline;
+}

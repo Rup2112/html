@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="css/1.css">
+<style >
+	.c {
+			text-align: center;
+        }
+	ul li{
+
+			display: inline-block;
+			background: red;
+    width: 118px;
+    height: 37px;
+    text-align: center;
+    line-height: 37px;
+    color: white;
+    font-weight: bold;
+		}
+ul li a{
+			text-decoration: none;
+			color: white;
+		}
+		ul li:hover{
+			background: blue;
+		}</style>
+</head>
+<body style="background-image: url(img/marathi.png);">
+                   <div class="main" style="background-image: url(img/hindi.jpg);">
+		           <div class="topbar">
+		     	   <div class="space">
+				   <div class="email">
+					rupalijhansikargwl@gmail.com
+				   </div><!--email end-->				
+				   <div class="phone">
+					Phone: 8878131169
+				   </div><!--phone end-->
+                   </div><!--space end-->
+                   </div><!--topbar end-->	
+                   <div class="header">
+                   <div class="class"><img src="img/" height="110px" width="200px";>
+
+                   </div><!--class end-->
+                   <div class="search">
+                   <form>
+		           <input type="text" name="" placeholder="Enter name">
+		           <input type="submit" name="" value="search";>
+	               </form>
+                   </div><!--search end-->
+                   </div><!--header end-->
+                    <div class="c">
+      	            <ul style="background-color: black" margin="50px";>
+		            <li style="background-color: black"><a href="home.html">Home</a></li>
+		            <li style="background-color: black"><a href="About.html">About</a></li>
+		            <li style="background-color: black"><a href="itm.html">ITM</a></li>
+		            <li style="background-color: black"><a href="blog.html">Blog</a></li>
+		            <li style="background-color: black"><a href="login.html">Login</a></li>
+                    </ul>
+                    </div>
+                    <img src="C:\Users\manvi chauhan\Desktop\webdesign\img\sports.jpg" height="300px" width="500px";>
+                    <img src="C:\Users\manvi chauhan\Desktop\webdesign\img\sport.jpg" height="300px" width="495px";>
+                    <div class="e">
+                    <h1 style="alignment-baseline: text-before-edge margin-right: 100px;">  <img src="C:\Users\manvi chauhan\Desktop\webdesign\img\logo1.jpg" width="150px" height="90px" align="left" style="margin-left: 380px;">
+     	            <span style="color: black; font-size: 22px;"><u>play sports and game</u></span></h1>
+	                </div>
+	                What sports are on ESPN?
+	                <br>
+                    ESPN+ marks a new era for company.
+                    ESPN has identified three primary target audiences for ESPN+: diehard fans of sports and ESPN, fans of niche sports such as cricket and rugby that will see programming for those sports on the service and fans of lesser exposed teams such as mid-major college programs that will see additional airing through
+                    <div>
+                    	
+                    </div>
+                   <div class="a" style= "background-color: black";>
+                   	<img src="C:\Users\manvi chauhan\Desktop\webdesign\img\hocky.jpg" height="240px" width="320px">
+                  	<p>The first recorded use of the word hockey is in the 1773 book Juvenile Sports and Pastimes, to Which Are Prefixed, Memoirs of the Author: Including a New Mode of Infant Education by Richard Johnson (Pseud. Master Michel Angelo), whose chapter XI was titled "New Improvements on the Game of Hockey". The belief that hockey was mentioned in a 1363 proclamation by King Edward III of England is based on modern translations of the proclamation, which was originally in Latin and explicitly forbade the games "Pilam Manualem, Pedivam, & Bacularem: & ad Canibucam & Gallorum Pugnam". The English historian and biographer John Strype did not use the word "hockey" when he translated the proclamation in 1720, instead translating "Canibucam" as "Cambuck"; this may have referred to either an early form of hockey or a game more similar to golf or croquet. Cow poop. As legend has it, when hockey was played in its early days, a frozen patty of cow poop was used as a puck.</p> 
+                  	 </div>
+	            <div class="a" style="background-color: black";>  
+	            	<img src="C:\Users\manvi chauhan\Desktop\webdesign\img\racket.jpg" height="240px" width="320px"> 	
+	            	<p>Badminton was not called badminto since the beginning.
+	               It was first known as Shuttlecock or Battledore.</p>
+                   <p>After Soccer, Badminton is said to be the world’s most popular game</p>
+                 <p> The shortest recorded Badminton match was said to be only 6 minutes</p>
+                  <p>he International Badminton Federation has over 150 nations as a part of it.</p>
+                 <p> The court is rectangular and divided into halves by a net. Courts are usually marked for both singles and doubles play, although badminton rules permit a court to be marked for singles only.[13] The doubles court is wider than the singles court, but both are of the same length. The exception, which often causes confusion to newer players, is that the doubles court has a shorter serve-length dimension.Games employing shuttlecocks have been played for centuries across Eurasia,[a] but the modern game of badminton developed in the mid-19th century among the British as a variant of the earlier game</p> 
+               	</div>
+	            <div class="a"style="background-color: black";>	
+	            <img src="C:\Users\manvi chauhan\Desktop\webdesign\img\stadium.jpg" height="240" width="320px">
+	            <p>Jawaharlal Nehru Stadium is the multipurpose sports stadium and one of the most important sports Stadium of Delhi. The Jawaharlal Nehru Stadium of Delhi was the main stadium used for the major sporting events of XIX Commonwealth Games in 2010. It is the fourth largest multipurpose stadium in India in terms of seating capacity of 60,000 and extended up to 100,000 for concerts. The Stadium is owned by Indian Olympic Association.</p> <p>The Dr. D. Y. Patil Stadium is a cricket stadium located in Nerul, Navi Mumbai with seating capacity of 60,000. It also has other facilities including 9 tennis hard courts, 4 indoor badminton courts and an Olympic sized swimming pool. Best feature of the stadium are cantilever roof and world;s first cricket stadium  to have concert level reinforced music system.top 5 stadium in world<br>Wembley Stadium (London) UK
+ 	            	Camp Nou (Catalonia)
+                     Santiago Bernabeu
+                    Estadio Jornalista Mario Filho
+                    Stadio Giuseppe Meazza
+                        </p>
+	                   </div>
+	                   <div class="b">
+		             <h1 ><u>Login Form</u></h1>
+	                   <form>
+		            Username:<input type="text" name="" placeholder="Enter name">
+		            <br>
+		            <br>
+		            Password:<input type="password" name="" placeholder="Enter Password">
+		            <br>
+		            <br>
+
+		            <input type="submit" name="" value="submit">
+	                </form></div>
+	                </div><!--main div end--> 
+                    </body>
+                    </html>
